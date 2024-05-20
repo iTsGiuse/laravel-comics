@@ -23,6 +23,7 @@
 
     <main>
         @include('partials.jumbotron')
+        @include('partials.film')
     </main>
 
     <footer>
