@@ -29,6 +29,7 @@
 
     <footer>
         @include('partials.header-top')
+        @include('partials.header-bottom')
     </footer>
 
 </body>
