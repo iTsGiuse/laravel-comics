@@ -16,7 +16,18 @@
 </head>
 
 <body>
+    <header>
+        @include('partials.header') 
+    </header>
+    
 
+    <main>
+        @yield('main')
+    </main>
+
+    <footer>
+
+    </footer>
 
 </body>
 
