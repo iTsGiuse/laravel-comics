@@ -24,6 +24,7 @@
     <main>
         @include('partials.jumbotron')
         @include('partials.film')
+        @include('partials.promo')
     </main>
 
     <footer>
