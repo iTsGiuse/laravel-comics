@@ -22,7 +22,7 @@
     
 
     <main>
-        @yield('main')
+        @include('partials.jumbotron')
     </main>
 
     <footer>
