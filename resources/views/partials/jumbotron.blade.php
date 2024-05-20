@@ -5,7 +5,7 @@
 
 <style lang="scss" scoped>
     .jumbotron{
-        height: 500px !important;
+        height: 650px !important;
 
         img{
             width: 100%;

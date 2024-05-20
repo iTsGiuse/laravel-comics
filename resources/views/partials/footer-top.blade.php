@@ -1,4 +1,4 @@
-<section id="header-top">
+<section id="footer-top">
     <div class="container d-flex">
         <div class="row my-3">
             <div class="col">
@@ -43,14 +43,13 @@
 </section>
 
 <style scoped lang="scss">
-    #header-top{
+    #footer-top{
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
         overflow-y: hidden;
         background-image: url({{ Vite::asset('resources/img/footer-bg.jpg') }});
         
-
         .row{
             width: 50%;
             position: relative;

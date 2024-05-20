@@ -1,4 +1,4 @@
-<section id="header-bottom">
+<section id="footer-bottom">
     <div class="container">
         <div class="row py-3">
             <div class="col d-flex justify-content-between align-items-center">
@@ -28,7 +28,7 @@
 </section>
 
 <style scoped lang="scss">
-    #header-bottom{
+    #footer-bottom{
         background-color: #303030;
 
         button{

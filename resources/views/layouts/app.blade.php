@@ -28,8 +28,8 @@
     </main>
 
     <footer>
-        @include('partials.header-top')
-        @include('partials.header-bottom')
+        @include('partials.footer-top')
+        @include('partials.footer-bottom')
     </footer>
 
 </body>

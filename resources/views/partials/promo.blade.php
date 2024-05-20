@@ -47,7 +47,7 @@
 
 <style scoped lang="scss">
     #promo{
-        background-color: blue
+        background-color: #0282f9;
     }
     span{
         color: white;
