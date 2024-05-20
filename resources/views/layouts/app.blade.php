@@ -28,7 +28,7 @@
     </main>
 
     <footer>
-
+        @include('partials.header-top')
     </footer>
 
 </body>
